@@ -67,7 +67,9 @@
 <body>
 
 <div id="container">
-	<h1>Welcome to CodeIgniter! Amarrrr .. new edit code</h1>
+
+	<h1>Welcome to CodeIgniter! Amarrrr .. new edit codes</h1>
+
 
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
