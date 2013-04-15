@@ -68,7 +68,7 @@
 
 <div id="container">
 
-	<h1>Welcome to CodeIgniter! Amarrrr .. new edit codes</h1>
+	<h1>Welcome to CodeIgniter! Amarrrr .. new edit codes.. a git edit here</h1>
 
 
 	<div id="body">
